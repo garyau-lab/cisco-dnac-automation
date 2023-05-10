@@ -1,0 +1,4 @@
+vn_name,vlan_id
+CORP_VN,3001
+PARTNER_VN,3002
+GUEST_VN,3003

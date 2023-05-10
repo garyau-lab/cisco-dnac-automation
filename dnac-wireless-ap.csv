@@ -1,0 +1,17 @@
+ap_name,floor_name,wireless_profile,wireless_network
+London-AP-01,Basement,Warehouse,CCTV-WIFI
+London-AP-02,Basement,Warehouse,CCTV-WIFI
+London-AP-03,Basement,Warehouse,CCTV-WIFI
+London-AP-04,Basement,Warehouse,CCTV-WIFI
+London-AP-05,Ground,Warehouse,CCTV-WIFI
+London-AP-06,Ground,Warehouse,CCTV-WIFI
+London-AP-07,Ground,Warehouse,CCTV-WIFI
+London-AP-08,Ground,Warehouse,CCTV-WIFI
+London-AP-09,Floor 1,Office,"CORP-WIFI,PARTNER-WIFI,GUEST-WIFI"
+London-AP-10,Floor 1,Office,"CORP-WIFI,PARTNER-WIFI,GUEST-WIFI"
+London-AP-11,Floor 1,Office,"CORP-WIFI,PARTNER-WIFI,GUEST-WIFI"
+London-AP-12,Floor 1,Office,"CORP-WIFI,PARTNER-WIFI,GUEST-WIFI"
+London-AP-13,Floor 2,Office,"CORP-WIFI,PARTNER-WIFI,GUEST-WIFI"
+London-AP-14,Floor 2,Office,"CORP-WIFI,PARTNER-WIFI,GUEST-WIFI"
+London-AP-15,Floor 2,Office,"CORP-WIFI,PARTNER-WIFI,GUEST-WIFI"
+London-AP-16,Floor 2,Office,"CORP-WIFI,PARTNER-WIFI,GUEST-WIFI"

@@ -1,0 +1,47 @@
+---
+# DNAC credentials
+dnac_url: https://100.x.x.x
+dnac_host: 100.x.x.x
+dnac_port: 443
+dnac_username: admin
+dnac_password: Cisco123
+dnac_version: 2.3.3.0  # optional, defaults to 2.3.3.0. See the Compatibility matrix
+dnac_verify: False  # optional, defaults to True
+dnac_debug: False  # optional, defaults to False
+
+# Device credentials
+cli_protocol: ssh
+cli_username: devnet-user
+cli_password: Password123
+cli_enable: Password123
+snmp_version: v3
+snmp_mode: priv
+snmp_username: dnac_snmpv3_user
+snmp_auth_protocol: sha
+snmp_auth_passphrase: Password123
+snmp_priv_protocol: aes128
+snmp_priv_passphrase: Password123
+netconf_port: 830
+
+# Site information
+site_parent: Global/EMEAR/UK
+site_area: London
+site_building: London SDA
+
+# Fabric informaton
+ip_transit_name: IP-Transit
+ip_transit_asnum: 100
+external_interface: Port-channel1
+local_asnum: 200
+
+# Reporting
+task_width: 80
+result_width: 20
+result_pass: Success
+result_fail: Failed
+result_skip: Skip, already done
+
+# Timer
+verify_delay: 5
+verify_retry_normal: 6
+verify_retry_extended: 60

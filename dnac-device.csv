@@ -1,0 +1,3 @@
+hostname,ip_address,netconf,fabric_role
+LON-EXT-SW-01,100.64.0.160,no,
+LON-BDR-SW-01,100.124.64.11,yes,fabric-in-a-box

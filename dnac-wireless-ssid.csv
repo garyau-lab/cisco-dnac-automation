@@ -1,0 +1,5 @@
+ssid_name,security_level,passphrase,pool_name,sgt_name
+CORP-WIFI,WPA2_PERSONAL,passphrase123,IP-Pool-01-USER,User_SGT
+PARTNER-WIFI,WPA2_PERSONAL,passphrase123,IP-Pool-05-PARTNER1,Partner_SGT
+GUEST-WIFI,WPA2_PERSONAL,passphrase123,IP-Pool-07-GUEST,Guest_SGT
+CCTV-WIFI,WPA2_PERSONAL,passphrase123,IP-Pool-04-CCTV,CCTV_SGT

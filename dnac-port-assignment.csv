@@ -1,0 +1,7 @@
+device_name,port_name,port_type,data_pool,sgt_name,voice_pool,auth_template,supersede
+LON-BDR-SW-01,GigabitEthernet1/0/2-GigabitEthernet1/0/7,user,IP-Pool-01-USER,User_SGT,IP-Pool-02-PHONE,No Authentication,
+LON-BDR-SW-01,"GigabitEthernet1/0/10,GigabitEthernet1/0/12",user,IP-Pool-01-USER,User_SGT,IP-Pool-02-PHONE,No Authentication,
+LON-BDR-SW-01,GigabitEthernet1/0/15,user,IP-Pool-01-USER,User_SGT,IP-Pool-02-PHONE,No Authentication,
+LON-BDR-SW-01,"GigabitEthernet1/0/8,GigabitEthernet1/0/9",ap,IP-Pool-08-AP,,,No Authentication,yes
+LON-BDR-SW-01,GigabitEthernet1/0/11,ap,IP-Pool-08-AP,,,No Authentication,yes
+LON-BDR-SW-01,GigabitEthernet1/0/16-GigabitEthernet1/0/18,ap,IP-Pool-08-AP,,,No Authentication,yes
